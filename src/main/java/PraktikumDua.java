@@ -6,11 +6,10 @@ public class PraktikumDua {
     public static void main(String[] args) {
 
         int s = 0;
-        int arr [];
         Scanner sc = new Scanner(System.in);
-        int i = 1;
-        int j = 0;
-        int ans = 0;
+        double i = 0;
+        int j =  0;
+        double ans = 0;
 
         System.out.println("Masukan Angka");
 
